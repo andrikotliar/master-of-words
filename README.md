@@ -37,4 +37,4 @@
 |  Том  | Таїланд |  Тигр   | Тагетес |     4      |
 | Джон  |  Данія  |    -    |    -    |     2      |
 
-Посилання на генератор слів: <a href="https://andrikotliar.github.io/master-of-words" target="_blank">https://andrikotliar.github.io/master-of-words</a>
+Посилання на генератор букв: <a href="https://andrikotliar.github.io/master-of-words" target="_blank">https://andrikotliar.github.io/master-of-words</a>
